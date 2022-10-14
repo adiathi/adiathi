@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NA](NA)
 
-- 🌱 I’m currently learning **full stack development and Data visualization**
+- 🌱 I’m currently learning **Data Science And Machine Learning**
 
 - 📫 How to reach me **adiimanitripathi@gmail.com**
 
