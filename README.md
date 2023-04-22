@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mani Tripathi</h1>
 <h3 align="center">A passionate engineering student</h3>
 
-- 🔭 I’m currently working on [NA](NA)
+- 🔭 I’m currently working on **Malicious site detection ML model**
 
 - 🌱 I’m currently learning **Data Science And Machine Learning**
 
