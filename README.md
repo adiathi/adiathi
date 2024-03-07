@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Mani Tripathi</h1>
 <h3 align="center">A passionate engineering student</h3>
 
-- 🔭 I’m currently working on **NA**
+- 🔭 I’m currently working as **Data Science Intern**
 
-- 🌱 I’m currently learning **Data Science And Machine Learning**
+- 🌱 I’m currently learning about **Large Language Models**
 
 - 📫 How to reach me **adiimanitripathi@gmail.com**
 
