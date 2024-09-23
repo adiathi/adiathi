@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mani Tripathi</h1>
-<h3 align="center">A passionate engineering student</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
-- 🔭 I’m currently working as **Data Science Intern**
+- 🔭 I’m currently working as **Machine Learning Engineer**
 
 - 🌱 I’m currently learning about **Large Language Models**
 
